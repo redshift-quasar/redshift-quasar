@@ -1,16 +1,38 @@
-## Hi there 👋
+# 🧑‍💻 Atharva Patel — CSE Student Repository
 
-<!--
-**redshift-quasar/redshift-quasar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal GitHub repository!
 
-Here are some ideas to get you started:
+I'm Atharva Patel, currently pursuing my **Bachelor's in Computer Science and Engineering (CSE)**. This repository serves as a collection of everything I explore, build, and learn during my first year of engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Purpose of This Repo
+
+This repo is a central hub for:
+
+- 📝 **Notes**: Key concepts and summaries from subjects and tutorials  
+- 💻 **Code**: Assignments, practice problems, and small projects  
+- 🧪 **Experiments**: Trial-and-error code, learning new tools or languages  
+- ⚙️ **Setup files**: Configs or dotfiles that help me with development  
+
+## 🛠️ Technologies & Tools
+
+I'm gradually learning and using:
+
+- **Languages**: C++, Python, Shell
+- **Concepts**: Programming fundamentals, Data Structures, OOP
+- **Tools**: Git & GitHub, VSCode, Linux, Qt/QML (for GUI)
+
+> Everything here reflects my growth as a student — it's a work in progress, always evolving.
+
+
+## ✅ Focus Areas (Year 1)
+
+- Understand programming and problem solving using C++  
+- Learn version control with Git and GitHub  
+- Explore Linux as a development environment  
+- Start building small, meaningful projects  
+
+---
+
+Feel free to browse through the code and notes. If you're on a similar journey — let's connect and learn together!
+
+---

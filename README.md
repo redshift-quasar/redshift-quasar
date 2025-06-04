@@ -23,6 +23,18 @@ I'm gradually learning and using:
 
 > Everything here reflects my growth as a student — it's a work in progress, always evolving.
 
+## 📁 Folder Overview
+
+
+<pre><code>
+  📁 redshift-quasar
+  /notes       → Markdown summaries of subjects and topics  
+  /assignments → Course-related problems and lab work
+  /projects    → Personal or small group projects
+  /experiments → Learning-focused, test-driven code
+  /snippets    → Reusable functions or templates
+
+</code></pre>
 
 ## ✅ Focus Areas (Year 1)
 

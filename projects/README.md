@@ -4,10 +4,11 @@ This folder contains my coding projects and practice files — mostly built whil
 
 ---
 ## 📂 Folder Structure
-projects/
+<code>projects/
 ├── c++ Projects/ # Programs written in C++
 ├── Python Projects/ # Projects and scripts written in Python
 └── README.md # This file
+</code>
 
 ---
 

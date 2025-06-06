@@ -1,4 +1,8 @@
+#include <iostream>
+using namespace std;
 
+int main() {
+    cout << "Hello, GitHub!" << endl;
 
     if (incorrectGuesses == 0) {
         cout << "  +---+\n";
@@ -60,3 +64,5 @@
     } else {
         cout << "Game Over :(" << endl ;
     }
+    return 0;
+}

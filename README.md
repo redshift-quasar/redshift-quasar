@@ -1,4 +1,4 @@
-# 🧑‍💻 Atharva Patel — CSE Student Repository
+#  Atharva Patel — CSE Student Repository
 
 Welcome to my personal GitHub repository!
 

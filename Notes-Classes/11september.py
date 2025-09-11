@@ -26,3 +26,23 @@ in above is and == was same because of small integer(5,256)
 
 
 """
+#short hand assignment
+
+#ternary operator a?b:c not in python
+
+#control Statements
+
+"""Simple if 
+   if else 
+   if elif else
+   nested if 
+     
+  
+   
+att= int(input("Enter the attendance percentage: "))
+conduct= input("Enter the Conduct: ")
+if att>=75 and (conduct=="Good" or conduct=="good"):
+    print("Hall ticket generated")
+
+ """
+ 

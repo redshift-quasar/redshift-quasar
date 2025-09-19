@@ -1,4 +1,4 @@
-# 🧑‍💻 Atharva “redshift-quasar” Patel
+#  Atharva Patel
 
 CSE Undergraduate | First Year BTech | Passionate about Problem Solving & System-Level Programming
 

@@ -42,24 +42,30 @@
 
 ---
 
-## 🌐 Connect with Me
+---
 
-<p align="left">
+## 🌐 Connect with Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/redshift-quasar">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redshift-quasar&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshift-quasar&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=redshift-quasar&show_icons=true&theme=radical&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshift-quasar&layout=compact&theme=radical&hide_border=true" height="170px" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=redshift-quasar&theme=radical&hide_border=true" height="170px" />
 </p>
 
 ---

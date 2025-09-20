@@ -19,7 +19,7 @@
 - **Languages**: C++, Python  
 - **Core Areas**: Data Structures & Algorithms, Problem Solving  
 - **Tools**: Git, GitHub  
-- **Interests**: System Programming, Web Development, Automation  
+- **Interests**: System Programming, Automation  
 
 ---
 

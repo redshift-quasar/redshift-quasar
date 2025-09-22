@@ -1,0 +1,28 @@
+Data Types
+
+Primitive 
+-Integer
+-Float
+-string
+-boolean
+-complex
+
+Non Primitive
+
+List
+Tuple
+Dictionary
+set
+Files
+
+
+#LIST
+
+Ordered 
+Mutable
+Homogeneous And heterogeneous
+Duplicates Allowed
+List is class and items are object
+Slicing can be done
+iterable 
+linked list in python and linked list in c is different

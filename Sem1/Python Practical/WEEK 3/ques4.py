@@ -12,7 +12,7 @@ Constraints:
 •The average marks is calculated as the sum of the marks divided by 5."""
 
 import random
-maths=(random.uniform(0,100))
+maths=random.uniform(0,100)
 phy=random.uniform(0,100)
 chem=random.uniform(0,100)
 eng=random.uniform(0,100)

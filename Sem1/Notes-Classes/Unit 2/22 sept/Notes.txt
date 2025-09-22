@@ -30,3 +30,6 @@ linked list in python and linked list in c is different
 dir()-- function gets all directory
 
 13=list()-- constructor
+
+Nested List -- List inside list
+

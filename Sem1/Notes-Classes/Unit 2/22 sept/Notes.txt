@@ -26,3 +26,7 @@ List is class and items are object
 Slicing can be done
 iterable 
 linked list in python and linked list in c is different
+
+dir()-- function gets all directory
+
+13=list()-- constructor

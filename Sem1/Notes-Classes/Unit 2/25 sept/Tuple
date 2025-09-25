@@ -1,0 +1,18 @@
+Tuple ()
+
+ordered 
+immutable
+
+characteristics
+1 tuple can have one or more elements
+2 it can store homogeneous and heterogeneous elements
+3 Indexing is supported :
+                        zero indexing        0 -> len-1
+                        negative indexing   -1 -> -len
+
+
+4 Nested tuple is supported
+5 Tuples are iterable 
+6 Duplicated are allowed in tuple
+7 immutable --once created cant be changed
+                        

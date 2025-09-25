@@ -66,8 +66,29 @@ t1=(0,)  --> <class tuple>
 
 
 
-# Can be accessed through index           
+# Can be accessed through index   
+ ---gives type error 
+   but but but ..
+   a=(1,3,4,[4,5,6],(1,3,6))
+     -- if i change the list item inside tuple it can be changed ... not only list but any mutable objects        
 
 
 # Elements cant be changed once created
 
+# assignment of one tuple to another caused refrence to the same tuple :
+t1=(1,2,3)
+t2=t1
+
+here t2 will refere to te only -- deep copy
+
+.copy() not valid instead use t2=tuple()t1
+
+
+
+# Methods
+ len()
+ sum()
+ max()
+ min()
+ sorted() --> sorted will be list so after that we can convert it back to tuple
+ sorted(t1,reverse=True)

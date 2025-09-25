@@ -29,3 +29,43 @@ characteristics
 Application :
              1 Dictionary keys(hash)
              2 Represent any fixed coordinates : RGB coordinate
+
+
+
+
+Features :
+            List:
+                 List is mutable 
+                 Syntax []
+                 Performance : Slower than tuple
+                 dynamic -- values can be changed
+
+            Tuple:
+                 Tuple is immutable
+                 Syntax ()
+                 Performance faster
+                 static
+
+
+
+
+
+Empty Tuple:
+a=()
+or 
+a=tuple() --constructor   
+
+
+t1=(0)   --> <class int>
+t1=(0,)  --> <class tuple>
+
+
+
+#Tuple can have other objects in tuples : 
+          (0, [2,5,8], (1,2,3))
+
+
+
+# Can be accessed through index           
+
+

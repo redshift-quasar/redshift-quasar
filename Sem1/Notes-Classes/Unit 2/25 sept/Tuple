@@ -1,4 +1,4 @@
-Tuple ()
+tuple ()
 
 ordered 
 immutable
@@ -68,4 +68,6 @@ t1=(0,)  --> <class tuple>
 
 # Can be accessed through index           
 
+
+# Elements cant be changed once created
 

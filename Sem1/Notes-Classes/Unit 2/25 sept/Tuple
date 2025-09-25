@@ -75,4 +75,20 @@ t1=(0,)  --> <class tuple>
 
 # Elements cant be changed once created
 
-# 
+# assignment of one tuple to another caused refrence to the same tuple :
+t1=(1,2,3)
+t2=t1
+
+here t2 will refere to te only -- deep copy
+
+.copy() not valid instead use t2=tuple()t1
+
+
+
+# Methods
+ len()
+ sum()
+ max()
+ min()
+ sorted() --> sorted will be list so after that we can convert it back to tuple
+ sorted(t1,reverse=True)

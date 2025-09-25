@@ -15,4 +15,17 @@ characteristics
 5 Tuples are iterable 
 6 Duplicated are allowed in tuple
 7 immutable --once created cant be changed
-                        
+8 supports slicing
+9 Packing and Unpacking is supported 
+10 Single element in tuple needs coma
+   eg (10)   -> int
+      (10 ,) -> tuple
+11 Swap (a,b=b,a)
+12 returning multiple values from a function , by default it returns as a tuple
+13 dir(tuple) -> gives built in function
+
+
+
+Application :
+             1 Dictionary keys(hash)
+             2 Represent any fixed coordinates : RGB coordinate

@@ -1,4 +1,4 @@
-tuple ()
+# tuple ()
 
 ordered 
 immutable
@@ -61,7 +61,7 @@ t1=(0,)  --> <class tuple>
 
 
 
-#Tuple can have other objects in tuples : 
+# Tuple can have other objects in tuples : 
           (0, [2,5,8], (1,2,3))
 
 
@@ -92,3 +92,14 @@ here t2 will refere to te only -- deep copy
  min()
  sorted() --> sorted will be list so after that we can convert it back to tuple
  sorted(t1,reverse=True)
+ index()
+ count()
+ type()
+ id()
+
+ # Pack and Unpack --read about it
+
+
+ # any() --returns true if any of the elements of the iterable(list,tuple,dict) are true
+
+

@@ -66,8 +66,13 @@ t1=(0,)  --> <class tuple>
 
 
 
-# Can be accessed through index           
+# Can be accessed through index   
+ ---gives type error 
+   but but but ..
+   a=(1,3,4,[4,5,6],(1,3,6))
+     -- if i change the list item inside tuple it can be changed ... not only list but any mutable objects        
 
 
 # Elements cant be changed once created
 
+# 

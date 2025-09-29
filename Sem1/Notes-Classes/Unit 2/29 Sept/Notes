@@ -1,0 +1,61 @@
+# Dictionary
+  - Unordered 
+  - mutable 
+  - stores data in key value pair
+    - Key should be unique 
+    - Key should be immutable
+    - Values can be mutable
+ - associative array or hash maps
+
+
+## Syntax :
+marks ={"Python" : 99, "Maths": 90}
+
+Accessing :
+-  Can use keys to access the dict
+- .get() inside the method we can use the keys to get the values
+  - get(i, "Key not found") - if key is not present it will return key not found
+  - safe to use get as it does not give error where as indexing gives the error
+
+## Methods
+- .keys() -- return iterable of key
+- .values() -- return iterable of values
+- .items() -- return tuple of keys and values 
+- .fromkeys(seq,element) -- used to create a dict with specific keys and a common values
+  - d={}.fromkeys( ("1","2","3") ,777 )
+- .copy()
+- .pop() here we must give one argument to pop it wont pop from last unlike tuple if we dont give an argument
+- .popitems() - it removes last element that was inserted in  the dict it follows LIFO -- if dictionary is empty it will give key error
+- .update() 
+## Traversing a Dictionary
+ 
+ say d is the dictionary for the below 
+
+- using .keys() in loop
+
+- for k in d:   -- here k will default be taken as key
+    print(d[k])
+
+- for v in d.values():
+    print(v)
+
+- for k,v in d.items():
+    print (k, ":" , v)
+
+## Nested Dictionary
+
+D= {"student 1": {"name":"Michael","Roll":100},
+    "student 2": {"name": Jackson, "Roll":101}}
+    
+
+
+
+
+
+# Set
+
+ - Syntax : {}
+ - cant have duplicates
+ - immutable objects only
+ - only hashable elements are part of the set
+    

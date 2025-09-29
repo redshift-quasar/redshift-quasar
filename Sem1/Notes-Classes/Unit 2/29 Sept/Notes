@@ -14,8 +14,8 @@ marks ={"Python" : 99, "Maths": 90}
 Accessing :
 -  Can use keys to access the dict
 - .get() inside the method we can use the keys to get the values
--- get(i, "Key not found") - if key is not present it will return key not found
--- safe to use get as it does not give error where as indexing gives the error
+  - get(i, "Key not found") - if key is not present it will return key not found
+  - safe to use get as it does not give error where as indexing gives the error
 
 ## Methods
 - .keys() -- return iterable of key
@@ -23,7 +23,7 @@ Accessing :
 - .items() -- return tuple of keys and values 
 - .fromkeys(seq,element) -- used to create a dict with specific keys and a common values
   - d={}.fromkeys( ("1","2","3") ,777 )
-
+- .copy()
 - .pop() here we must give one argument to pop it wont pop from last unlike tuple if we dont give an argument
 - .popitems() - it removes last element that was inserted in  the dict it follows LIFO -- if dictionary is empty it will give key error
 - .update() 
@@ -53,6 +53,7 @@ D= {"student 1": {"name":"Michael","Roll":100},
 
 
 # Set
+
  - Syntax : {}
  - cant have duplicates
  - immutable objects only

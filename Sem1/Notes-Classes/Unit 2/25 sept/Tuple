@@ -17,7 +17,7 @@ characteristics
 7 immutable --once created cant be changed
 8 supports slicing
 9 Packing and Unpacking is supported 
-10 Single element in tuple needs coma
+10 Single element in tuple needs comma
    eg (10)   -> int
       (10 ,) -> tuple
 11 Swap (a,b=b,a)
@@ -67,7 +67,7 @@ t1=(0,)  --> <class tuple>
 
 
 # Can be accessed through index   
- ---gives type error 
+ changing through index ---gives type error 
    but but but ..
    a=(1,3,4,[4,5,6],(1,3,6))
      -- if i change the list item inside tuple it can be changed ... not only list but any mutable objects        
@@ -81,7 +81,7 @@ t2=t1
 
 here t2 will refere to te only -- deep copy
 
-.copy() not valid instead use t2=tuple()t1
+.copy() not valid instead use t2=tuple(t1)
 
 
 

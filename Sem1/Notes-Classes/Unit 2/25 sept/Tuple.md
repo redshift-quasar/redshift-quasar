@@ -41,7 +41,7 @@ A tuple is an ordered, immutable collection of elements in Python.
 - a = ()
 
   or
-- a = tuple() # tuple constructor
+  a = tuple() # tuple constructor
 
 
 ## Important Notes

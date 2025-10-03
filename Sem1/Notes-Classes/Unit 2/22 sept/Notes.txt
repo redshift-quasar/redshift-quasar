@@ -1,4 +1,4 @@
-Data Types
+# Data Types
 
 Primitive 
 -Integer
@@ -16,7 +16,7 @@ set
 Files
 
 
-#LIST
+# LIST
 
 Ordered 
 Mutable

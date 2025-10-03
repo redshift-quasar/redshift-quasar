@@ -40,7 +40,7 @@ A tuple is an ordered, immutable collection of elements in Python.
 
 - a = ()
 
-- or
+  or
 - a = tuple() # tuple constructor
 
 
@@ -75,7 +75,7 @@ A tuple is an ordered, immutable collection of elements in Python.
 ## Packing and Unpacking
 
 - Packing groups multiple values into a tuple:
-  -t = 1, 2, 3 --  tuple packing
+  - t = 1, 2, 3 - tuple packing
 - Unpacking extracts elements:
   - a, b, c = t
 

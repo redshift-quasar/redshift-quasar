@@ -1,4 +1,4 @@
-# create a set from 2 to n:
+# create a set from 2 to n: 
 
 n=int(input("Enter the n : "))
 s=set({})

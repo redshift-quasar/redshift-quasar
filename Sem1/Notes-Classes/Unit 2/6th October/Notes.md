@@ -13,48 +13,49 @@
 
 ## Common String Methods
 
-| Method           | Description                                                      | Example                                  |
-|------------------|------------------------------------------------------------------|------------------------------------------|
-| `capitalize()`   | Capitalizes first character and lowers the rest                  | `"hello".capitalize()` → `"Hello"`       |
-| `casefold()`     | Converts string to lowercase aggressively for caseless matching | `"HELLO".casefold()` → `"hello"`         |
-| `center(width)`  | Centers the string in a field of given width                     | `"hi".center(6)` → `"  hi  "`            |
-| `count(sub)`     | Counts occurrences of substring                                 | `"banana".count("a")` → `3`              |
-| `encode()`       | Encodes the string into bytes                                    | `"hello".encode()`                        |
-| `endswith(suffix)` | Returns True if string ends with substring                       | `"test".endswith("st")` → `True`         |
-| `expandtabs(tabsize)` | Converts tabs to spaces with specified tab size              | `"a\tb".expandtabs(4)` → `"a   b"`       |
-| `find(sub)`      | Returns lowest index where substring found, or -1 if not found  | `"hello".find("l")` → `2`                 |
-| `format()`       | Formats string with placeholders                                 | `"Hello, {}".format("world")`             |
-| `format_map()`   | Like format, but uses a dict                                    | `"{name}".format_map({'name':'Joe'})`    |
-| `index(sub)`     | Like find(), but raises ValueError if substring not found       | `"hello".index("l")` → `2`                |
-| `isalnum()`      | True if all chars are alphanumeric                              | `"abc123".isalnum()` → `True`             |
-| `isalpha()`      | True if all chars are alphabetic                                | `"abc".isalpha()` → `True`                 |
-| `isascii()`      | True if all characters are ASCII                               | `"abc".isascii()` → `True`                 |
-| `isdigit()`      | True if all characters are digits                              | `"123".isdigit()` → `True`                 |
-| `islower()`      | True if all cased chars are lowercase                          | `"abc".islower()` → `True`                 |
-| `isspace()`      | True if all characters are whitespace                          | `" \t\n".isspace()` → `True`               |
-| `istitle()`      | True if string is in title case                                | `"Hello World".istitle()` → `True`         |
-| `isupper()`      | True if all cased chars are uppercase                          | `"HELLO".isupper()` → `True`               |
-| `join(iterable)` | Joins iterable elements with the string separator              | `",".join(["a", "b"])` → `"a,b"`           |
-| `ljust(width)`   | Left-justifies string in a field of given width                | `"hi".ljust(6)` → `"hi    "`               |
-| `lower()`        | Converts string to lowercase                                    | `"HELLO".lower()` → `"hello"`               |
-| `lstrip()`       | Removes leading whitespace                                      | `"  hi ".lstrip()` → `"hi "`                 |
-| `partition(sep)` | Splits string into tuple before, sep, after first sep          | `"hello world".partition(" ")` → `("hello", " ", "world")` |
-| `replace(old, new)` | Replaces all occurrences of old with new                     | `"hello".replace("l", "r")` → `"herro"`   |
-| `rfind(sub)`     | Like find(), but returns highest index                         | `"hello".rfind("l")` → `3`                 |
-| `rindex(sub)`    | Like index(), but returns highest index                        | `"hello".rindex("l")` → `3`                |
-| `rjust(width)`   | Right-justifies string in a field of given width               | `"hi".rjust(6)` → `"    hi"`               |
-| `rpartition(sep)` | Splits string into tuple before, sep, after last sep          | `"hello world".rpartition(" ")` → `("hello", " ", "world")` |
-| `rsplit(sep, maxsplit)` | Splits string from the right by sep, returns list         | `"a,b,c".rsplit(",", 1)` → `["a,b", "c"]` |
-| `rstrip()`       | Removes trailing whitespace                                     | `"  hi ".rstrip()` → `"  hi"`               |
-| `split(sep, maxsplit)` | Splits string by sep, returns list                          | `"a,b,c".split(",")` → `["a", "b", "c"]`   |
-| `splitlines()`   | Splits string at line breaks, returns list                     | `"a\nb\nc".splitlines()` → `["a", "b", "c"]` |
-| `startswith(prefix)` | Returns True if string starts with prefix                   | `"hello".startswith("he")` → `True`        |
-| `strip()`        | Removes leading and trailing whitespace                        | `"  hi ".strip()` → `"hi"`                   |
-| `swapcase()`     | Swaps case of each character                                    | `"Hello".swapcase()` → `"hELLO"`              |
-| `title()`        | Converts to title case (first letter uppercase)                | `"hello world".title()` → `"Hello World"`   |
-| `translate(table)` | Translates characters using translation table (from maketrans) | `table = str.maketrans("abc","123"); "abc".translate(table)` → `"123"` |
-| `upper()`        | Converts string to uppercase                                    | `"hello".upper()` → `"HELLO"`               |
-| `zfill(width)`   | Pads numeric string on the left with zeros                      | `"42".zfill(5)` → `"00042"`                   |
+| Method           | Syntax                                 | Description                                                                | Example                                    |
+|------------------|----------------------------------------|----------------------------------------------------------------------------|--------------------------------------------|
+| `capitalize()`   | `str.capitalize()`                     | Capitalizes first character and lowers the rest                            | `"hello".capitalize()` → `"Hello"`         |
+| `casefold()`     | `str.casefold()`                       | Lowercases string aggressively for caseless matching                       | `"HELLO".casefold()` → `"hello"`           |
+| `center()`       | `str.center(width, fillchar=' ')`      | Centers string in given width with padding                                 | `"hi".center(6)` → `"  hi  "`              |
+| `count()`        | `str.count(sub, start=0, end=len(str))`| Counts substring occurrences in optional range                             | `"banana".count("a")` → `3`                |
+| `encode()`       | `str.encode(encoding='utf-8', errors='strict')` | Encodes string to bytes                                         | `"hello".encode()`                         |
+| `endswith()`     | `str.endswith(suffix, start=0, end=len(str))` | Checks if string ends with suffix within range                  | `"test".endswith("st")` → `True`           |
+| `expandtabs()`   | `str.expandtabs(tabsize=8)`            | Converts tabs to spaces using tabsize                                      | `"a\tb".expandtabs(4)` → `"a   b"`         |
+| `find()`         | `str.find(sub, start=0, end=len(str))` | Lowest index of substring or -1 if not found                               | `"hello".find("l")` → `2`                  |
+| `format()`       | `str.format(*args, **kwargs)`          | Formats placeholders with values                                           | `"Hello, {}".format("world")`              |
+| `format_map()`   | `str.format_map(mapping)`              | Formats with a dictionary                                                  | `"{name}".format_map({'name':'Joe'})`      |
+| `index()`        | `str.index(sub, start=0, end=len(str))`| Like find(), but error if not found                                        | `"hello".index("l")` → `2`                 |
+| `isalnum()`      | `str.isalnum()`                        | Returns True if all chars alphanumeric                                     | `"abc123".isalnum()` → `True`              |
+| `isalpha()`      | `str.isalpha()`                        | Returns True if all chars alphabetic                                       | `"abc".isalpha()` → `True`                 |
+| `isascii()`      | `str.isascii()`                        | Returns True if all chars ASCII                                            | `"abc".isascii()` → `True`                 |
+| `isdigit()`      | `str.isdigit()`                        | Returns True if all chars are digits                                       | `"123".isdigit()` → `True`                 |
+| `islower()`      | `str.islower()`                        | Returns True if all cased chars lowercase                                  | `"abc".islower()` → `True`                 |
+| `isspace()`      | `str.isspace()`                        | Returns True if all chars are whitespace                                   | `" \t\n".isspace()` → `True`               |
+| `istitle()`      | `str.istitle()`                        | Returns True if string is in title case                                    | `"Hello World".istitle()` → `True`         |
+| `isupper()`      | `str.isupper()`                        | Returns True if all cased chars uppercase                                  | `"HELLO".isupper()` → `True`               |
+| `join()`         | `str.join(iterable)`                   | Joins iterable elements with separator                                     | `",".join(["a", "b"])` → `"a,b"`           |
+| `ljust()`        | `str.ljust(width, fillchar=' ')`       | Left-justifies in field of width with padding                              | `"hi".ljust(6)` → `"hi    "`               |
+| `lower()`        | `str.lower()`                          | Converts string to lowercase                                               | `"HELLO".lower()` → `"hello"`              |
+| `lstrip()`       | `str.lstrip(chars=None)`               | Removes leading whitespace or characters                                   | `"  hi ".lstrip()` → `"hi "`               |
+| `partition()`    | `str.partition(sep)`                   | Splits string into tuple at first sep                                      | `"hello world".partition(" ")` → `("hello", " ", "world")` |
+| `replace()`      | `str.replace(old, new, count=-1)`      | Replaces old with new, optionally count times                              | `"hello".replace("l", "r")` → `"herro"`    |
+| `rfind()`        | `str.rfind(sub, start=0, end=len(str))`| Highest index of substring or -1 if not found                              | `"hello".rfind("l")` → `3`                 |
+| `rindex()`       | `str.rindex(sub, start=0, end=len(str))`| Like rfind(), but error if not found                                       | `"hello".rindex("l")` → `3`                |
+| `rjust()`        | `str.rjust(width, fillchar=' ')`       | Right-justifies in field of width with padding                             | `"hi".rjust(6)` → `"    hi"`               |
+| `rpartition()`   | `str.rpartition(sep)`                  | Splits into tuple at last sep                                              | `"hello world".rpartition(" ")` → `("hello", " ", "world")` |
+| `rsplit()`       | `str.rsplit(sep=None, maxsplit=-1)`    | Splits from right, returns list                                            | `"a,b,c".rsplit(",", 1)` → `["a,b", "c"]`  |
+| `rstrip()`       | `str.rstrip(chars=None)`               | Removes trailing whitespace or characters                                  | `"  hi ".rstrip()` → `"  hi"`              |
+| `split()`        | `str.split(sep=None, maxsplit=-1)`     | Splits from left, returns list                                             | `"a,b,c".split(",")` → `["a", "b", "c"]`   |
+| `splitlines()`   | `str.splitlines(keepends=False)`       | Splits at line breaks, returns list                                        | `"a\nb\nc".splitlines()` → `["a", "b", "c"]`|
+| `startswith()`   | `str.startswith(prefix, start=0, end=len(str))` | Checks if string starts with prefix in range                  | `"hello".startswith("he")` → `True`        |
+| `strip()`        | `str.strip(chars=None)`                | Removes leading and trailing whitespace or chars                           | `"  hi ".strip()` → `"hi"`                 |
+| `swapcase()`     | `str.swapcase()`                       | Swaps case of each char                                                    | `"Hello".swapcase()` → `"hELLO"`           |
+| `title()`        | `str.title()`                          | Converts to title case                                                     | `"hello world".title()` → `"Hello World"`  |
+| `translate()`    | `str.translate(table)`                 | Uses table to replace chars (from maketrans)                               | `table = str.maketrans("abc","123"); "abc".translate(table)` → `"123"` |
+| `upper()`        | `str.upper()`                          | Converts string to uppercase                                               | `"hello".upper()` → `"HELLO"`              |
+| `zfill()`        | `str.zfill(width)`                     | Pads numeric string on left with zeros                                     | `"42".zfill(5)` → `"00042"`                |
+
 
 
 

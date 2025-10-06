@@ -1,5 +1,5 @@
 #Program to check character for a character in a given string without using built in function
-
+#Can use membership operator also
 found=False
 str1=input("Enter the String : ")
 str2=input("Enter the character to find : ")

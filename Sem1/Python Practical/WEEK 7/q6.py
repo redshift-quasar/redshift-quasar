@@ -1,13 +1,12 @@
 with open("/home/atharva-patel/Desktop/College/College Python/Sem1/Python Practical/WEEK 7/pythonlab.csv") as f:
     f.readline()
-    loc={}
+    local=[]
+    max=0
     for line in f:
         data=line.strip().split(',')
-        if data[1] in loc:
-            loc[data[1]]+=1
-        else :
-            loc[data[1]]=1
-
-print(loc)
-        
+        if int(data[4]) > max:
+            max=int(data[4])
+            local=data
+print("Max Salary : ",local[0])   
+print("Details : ", local)     
    

@@ -1,3 +1,4 @@
+#Read all employee records and display only the names sorted by salary (highest first).
 with open("/home/atharva-patel/Desktop/College/College Python/Sem1/Python Practical/WEEK 7/pythonlab.csv") as f:
     f.readline()
     slab={}

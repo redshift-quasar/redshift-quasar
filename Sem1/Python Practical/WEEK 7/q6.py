@@ -1,3 +1,4 @@
+#Identify the employee with the maximum salary and display their details.
 with open("/home/atharva-patel/Desktop/College/College Python/Sem1/Python Practical/WEEK 7/pythonlab.csv") as f:
     f.readline()
     local=[]

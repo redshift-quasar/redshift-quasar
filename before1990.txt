@@ -1,0 +1,7 @@
+Antony,Chennai,12-05-1988,Software Engineer,62000
+Ravi Shankar,Madurai,14-07-1985,Project Manager,82000
+Anitha S,Cochin,22-02-1989,Software Tester,52000
+Vignesh M,Hyderabad,05-10-1986,Team Lead,76000
+Karthik R,Chennai,15-08-1987,DevOps Engineer,68000
+Suresh P,Hyderabad,30-01-1984,Database Administrator,75000
+Balaji T,Bengaluru,09-09-1983,Product Manager,88000

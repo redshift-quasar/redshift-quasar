@@ -1,3 +1,4 @@
+#Print names of employees who earn more than ₹50,000 along with their salary.
 with open("/home/atharva-patel/Desktop/College/College Python/Sem1/Python Practical/WEEK 7/pythonlab.csv") as f:
     f.readline()
     for line in f:

@@ -1,3 +1,4 @@
+#Read the file and count how many employees are from each location.
 with open("/home/atharva-patel/Desktop/College/College Python/Sem1/Python Practical/WEEK 7/pythonlab.csv") as f:
     f.readline()
     loc={}

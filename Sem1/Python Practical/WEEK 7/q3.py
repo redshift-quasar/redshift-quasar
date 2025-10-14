@@ -1,3 +1,4 @@
+#Display only the Name and Position columns for all employees.
 with open("/home/atharva-patel/Desktop/College/College Python/Sem1/Python Practical/WEEK 7/pythonlab.csv") as f:
     f.readline()
     for line in f:

@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - I’m a **CSE student** in my first year of B.Tech, exploring as much tech as I can.  
-- I know **C++**, and I’m also learning **Python**.  
+- I know **C**, and I’m also learning **Python**.  
 - Passionate about **problem solving, building projects, and open-source**.  
 - I believe in *“learning by building”* — hands-on practice is my way of growth.  
 
@@ -16,7 +16,7 @@
 
 ## 🛠️ Skills & Tech Stack
 
-- **Languages**: C++, Python  
+- **Languages**: C, Python  
 - **Core Areas**: Data Structures & Algorithms, Problem Solving  
 - **Tools**: Git, GitHub  
 - **Interests**: System Programming, Automation  

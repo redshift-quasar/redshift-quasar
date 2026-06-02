@@ -1,6 +1,6 @@
 # Hi, I'm redshifted
 
-I'm a first-year B.Tech CSE student at PES University, building projects around student productivity, real-time dashboards, and clean web experiences.
+I'm a B.Tech CSE student at PES University, building projects around student productivity, real-time dashboards, and clean web experiences.
 
 Currently, I’m working on **CampusFlow**, a modern student dashboard that connects with PESU Academy to show live academic data like attendance, timetable, results, and seating arrangement.
 

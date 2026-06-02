@@ -4,9 +4,6 @@
 
 ### Building clean student productivity tools, real-time dashboards, and modern web experiences.
 
-<br />
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript,nextjs,react,tailwind,firebase,git,github,vscode,linux&theme=dark" alt="Tech Stack Icons" />
 
 <br />
 

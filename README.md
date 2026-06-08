@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm redshifted
+# Hi, I'm Redshifted
 
 ### Building clean student productivity tools, real-time dashboards, and modern web experiences.
 
@@ -96,7 +96,7 @@ A shared couple app built with Next.js and Firebase.
 **Tech Used**
 
 ```txt
-Next.js · Firebase · Firestore · TypeScript
+Next.js · Firebase · Firestore · TypeScript 
 ```
 
 ---

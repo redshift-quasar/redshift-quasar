@@ -1,6 +1,11 @@
 # Hi, I'm Redshifted
 
-### B.Tech CSE Student | ML/AI Explorer | Problem Solver
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=120&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;ML%2FAI+Explorer;Problem+Solver"
+    alt="B.Tech CSE Student | ML/AI Explorer | Problem Solver"
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning;Strengthening+Data+Structures+%26+Algorithms;Building+with+C+%26+Python;Learning+by+Building" alt="Typing SVG" />
@@ -8,11 +13,11 @@
 
 <p align="center">
   <a href="https://github.com/redshift-quasar">
-    <img src="https://skillicons.dev/icons?i=github" width="32"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -145,11 +150,6 @@ Currently focusing on understanding **problem-solving patterns and underlying co
 ---
 
 ## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redshift-quasar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshift-quasar&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=redshift-quasar&theme=github-dark-blue&hide_border=true" />

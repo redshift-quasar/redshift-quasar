@@ -1,27 +1,37 @@
-<div align="center">
-
 # Hi, I'm Redshifted
 
-### Building clean student productivity tools, real-time dashboards, and modern web experiences.
+### B.Tech CSE Student | ML/AI Explorer | Problem Solver
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning;Strengthening+Data+Structures+%26+Algorithms;Building+with+C+%26+Python;Learning+by+Building" alt="Typing SVG" />
+</p>
 
-<br />
-
-</div>
+<p align="center">
+  <a href="https://github.com/redshift-quasar">
+    <img src="https://skillicons.dev/icons?i=github" width="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32"/>
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-I'm a B.Tech CSE student at PES University, building projects around student productivity, real-time dashboards, automation, and clean web experiences.
+I'm a **B.Tech Computer Science and Engineering student at PES University**, currently focusing on **Machine Learning, Artificial Intelligence, Data Structures & Algorithms, and core Computer Science**.
 
-Currently, I’m working on **CampusFlow**, a modern student dashboard that connects with PESU Academy to show live academic data like attendance, timetable, results, and seating arrangement.
+I enjoy understanding concepts from the fundamentals, building practical solutions, and learning through experimentation.
 
 * B.Tech Computer Science and Engineering student
-* Learning full-stack development, automation, and practical software engineering
-* Interested in building useful tools for students
-* Exploring Next.js, TypeScript, Python, Firebase, and backend integrations
-* Focused on cleaner code, better UI/UX, and real-world project building
+* Exploring Machine Learning and Artificial Intelligence
+* Strengthening Data Structures and Algorithms
+* Learning Python for Machine Learning
+* Exploring C and systems-level programming
+* Interested in mathematics, data, and intelligent systems
+* Interested in open-source development
+* Focused on writing clean, efficient, and maintainable code
 
 ---
 
@@ -29,109 +39,164 @@ Currently, I’m working on **CampusFlow**, a modern student dashboard that conn
 
 ### Languages
 
-<div align="left">
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,js,ts" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,typescript,javascript&theme=dark" alt="Languages" />
+### Machine Learning and Data
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
 
-### Web Development
+<p align="center">
+  <a href="#currently-learning">Machine Learning</a>
+  &nbsp; · &nbsp;
+  <a href="#problem-solving">DSA</a>
+  &nbsp; · &nbsp;
+  <a href="#about-me">Computer Science</a>
+</p>
 
-<div align="left">
+### Tools and Environment
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,firebase&theme=dark" alt="Web Development" />
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
 
-</div>
-
-### Tools
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
-
-</div>
-
----
-
-## Featured Projects
-
-### CampusFlow
-
-A modern student dashboard for academic productivity and live student data.
-
-**Features**
-
-* Live PESU Academy profile sync
-* Attendance tracking
-* Real timetable and Today page
-* Results page with SGPA, grades, credits, and assessments
-* Seating arrangement page
-* Safe server-side sync flow
-* Dark glassmorphism UI
-* Demo fallback when live data is unavailable
-
-**Tech Used**
-
-```txt
-Next.js · TypeScript · Tailwind CSS · Python · PESU Academy integration
-```
-
----
-
-### AuroraBond
-
-A shared couple app built with Next.js and Firebase.
-
-**Features**
-
-* Shared chat
-* Presence and typing indicators
-* Weather cities
-* Mood check-ins
-* Movie vault
-* Music links
-* Game tally
-* Partner nickname customization
-
-**Tech Used**
-
-```txt
-Next.js · Firebase · Firestore · TypeScript 
-```
+> Currently expanding this section as I progress deeper into Machine Learning.
 
 ---
 
 ## Currently Learning
 
-* Data structures and algorithms
-* Full-stack development with Next.js
-* Backend APIs and safe data sync flows
-* Python automation
-* Git and GitHub workflows
-* Better UI/UX design for real-world apps
+<details>
+<summary>Machine Learning</summary>
+
+* Machine Learning fundamentals
+* Supervised and unsupervised learning
+* Feature engineering
+* Model evaluation
+* Python for Machine Learning
+* Mathematics behind Machine Learning
+* Data analysis and visualization
+* Deep Learning and modern AI systems
+
+</details>
+
+<details>
+<summary>Data Structures and Algorithms</summary>
+
+* Arrays and Strings
+* Searching and Sorting
+* Two Pointer techniques
+* Hash Maps
+* Linked Lists
+* Stacks and Queues
+* Trees
+* Graphs
+* Dynamic Programming
+* Problem solving through LeetCode
+
+</details>
+
+<details>
+<summary>Computer Science</summary>
+
+* C programming
+* Pointers and memory management
+* Data structures
+* Operating Systems
+* Computer Networks
+* Digital Logic
+* Software Engineering fundamentals
+* Linux
+
+</details>
 
 ---
 
 ## Goals
 
-* Build useful student-focused products
-* Improve problem-solving and DSA skills
-* Learn production-level full-stack development
-* Contribute to open-source projects
-* Keep improving as a developer every day
+* Build a strong foundation in Machine Learning and Artificial Intelligence
+* Become highly proficient in Data Structures and Algorithms
+* Understand the mathematics and intuition behind Machine Learning
+* Build meaningful Machine Learning projects from scratch
+* Experiment with different Machine Learning and AI approaches
+* Contribute to meaningful open-source projects
+* Strengthen software engineering and Computer Science fundamentals
+* Continue learning, experimenting, and building
+
+---
+
+## Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/redshift-quasar">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28"/>
+  </a>
+</p>
+
+Currently focusing on understanding **problem-solving patterns and underlying concepts**, rather than simply increasing the number of solved problems.
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redshift-quasar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redshift-quasar&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=redshift-quasar&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redshift-quasar&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## Areas of Interest
+
+<p align="center">
+  <a href="#currently-learning">Machine Learning</a>
+  &nbsp; • &nbsp;
+  <a href="#currently-learning">Artificial Intelligence</a>
+  &nbsp; • &nbsp;
+  <a href="#problem-solving">Data Structures</a>
+  &nbsp; • &nbsp;
+  <a href="#problem-solving">Algorithms</a>
+  &nbsp; • &nbsp;
+  <a href="#about-me">Computer Science</a>
+  &nbsp; • &nbsp;
+  <a href="#tech-stack">Linux</a>
+  &nbsp; • &nbsp;
+  <a href="#goals">Open Source</a>
+</p>
 
 ---
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-redshift--quasar-020617?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/redshift-quasar)
+<p align="center">
+  <a href="https://github.com/redshift-quasar">
+    <img src="https://skillicons.dev/icons?i=github" width="28"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="28"/>
+  </a>
+</p>
 
----
-
-<div align="center">
-
-```txt
-Building. Learning. Improving.
-```
-
-</div>
+<p align="center">
+  <i>Learning. Building. Improving.</i>
+</p>

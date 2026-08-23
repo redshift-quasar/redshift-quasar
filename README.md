@@ -147,15 +147,6 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 
 Currently focusing on understanding **problem-solving patterns and underlying concepts**, rather than simply increasing the number of solved problems.
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=redshift-quasar&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ## Contribution Graph
 

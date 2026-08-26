@@ -1,4 +1,4 @@
-# Hi, I'm Redshifted
+<h1 align="center"> Hi, I'm Redshifted </h1>
 
 <p align="center">
   <img
@@ -11,19 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning;Strengthening+Data+Structures+%26+Algorithms;Building+with+C+%26+Python;Learning+by+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/redshift-quasar">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-  </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 I'm a **B.Tech Computer Science and Engineering student at PES University**, currently focusing on **Machine Learning, Artificial Intelligence, Data Structures & Algorithms, and core Computer Science**.
 
@@ -40,17 +30,17 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
-### Languages
+<h3 align="center">Languages</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,js,ts" />
 </p>
 
-### Machine Learning and Data
+<h3 align="center">Machine Learning and Data</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
@@ -62,17 +52,15 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
   <a href="#about-me">Computer Science</a>
 </p>
 
-### Tools and Environment
+<h3 align="center">Tools and Environment</h3>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
-> Currently expanding this section as I progress deeper into Machine Learning.
-
 ---
 
-## Currently Learning
+<h2 align="center">Currently Learning</h2>
 
 <details>
 <summary>Machine Learning</summary>
@@ -120,7 +108,7 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 
 ---
 
-## Goals
+<h2 align="center">Goals</h2>
 
 * Build a strong foundation in Machine Learning and Artificial Intelligence
 * Become highly proficient in Data Structures and Algorithms
@@ -133,7 +121,7 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 
 ---
 
-## Problem Solving
+<h2 align="center">Problem Solving</h2>
 
 <p align="center">
   <a href="https://leetcode.com/">
@@ -150,7 +138,7 @@ Currently focusing on understanding **problem-solving patterns and underlying co
 
 ---
 
-## Areas of Interest
+<h2 align="center">Areas of Interest</h2>
 
 <p align="center">
   <a href="#currently-learning">Machine Learning</a>
@@ -170,18 +158,20 @@ Currently focusing on understanding **problem-solving patterns and underlying co
 
 ---
 
-## Connect
+<h2 align="center">Connect</h2>
 
 <p align="center">
   <a href="https://github.com/redshift-quasar">
-    <img src="https://skillicons.dev/icons?i=github" width="28"/>
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="28"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
   <i>Learning. Building. Improving.</i>
 </p>
+
+----

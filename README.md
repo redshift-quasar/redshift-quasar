@@ -148,12 +148,6 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 Currently focusing on understanding **problem-solving patterns and underlying concepts**, rather than simply increasing the number of solved problems.
 
 
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redshift-quasar&theme=github-dark&hide_border=true" />
-</p>
-
 ---
 
 ## Areas of Interest

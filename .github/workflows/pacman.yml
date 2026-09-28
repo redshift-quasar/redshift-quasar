@@ -15,11 +15,11 @@ jobs:
 
     steps:
       - name: Generate Pac-Man
-        uses: gregkozakiewicz/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Publish
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist

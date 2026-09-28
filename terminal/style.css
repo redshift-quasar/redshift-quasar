@@ -1,0 +1,178 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: #0d1117;
+
+  font-family:
+    "JetBrains Mono",
+    "Fira Code",
+    "Cascadia Code",
+    monospace;
+}
+
+.terminal {
+  width: min(900px, 92vw);
+  height: min(560px, 80vh);
+
+  display: flex;
+  flex-direction: column;
+
+  background: #0b0f14;
+
+  border: 1px solid #30363d;
+  border-radius: 10px;
+
+  overflow: hidden;
+
+  box-shadow:
+    0 20px 60px rgba(0, 0, 0, 0.45);
+}
+
+.terminal-header {
+  height: 38px;
+
+  display: flex;
+  align-items: center;
+
+  position: relative;
+
+  background: #161b22;
+  border-bottom: 1px solid #30363d;
+}
+
+.window-buttons {
+  display: flex;
+  gap: 7px;
+  margin-left: 14px;
+}
+
+.window-buttons span {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+}
+
+.close {
+  background: #ff5f56;
+}
+
+.minimize {
+  background: #ffbd2e;
+}
+
+.maximize {
+  background: #27c93f;
+}
+
+.terminal-title {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+
+  color: #8b949e;
+  font-size: 13px;
+}
+
+#terminal-output {
+  flex: 1;
+
+  padding: 20px;
+
+  overflow-y: auto;
+
+  color: #c9d1d9;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.line {
+  white-space: pre-wrap;
+}
+
+.command {
+  color: #79c0ff;
+}
+
+.output {
+  color: #c9d1d9;
+}
+
+.muted {
+  color: #8b949e;
+}
+
+.terminal-input {
+  display: flex;
+  align-items: center;
+
+  padding: 0 20px 20px;
+
+  font-size: 14px;
+
+  white-space: pre;
+}
+
+.prompt {
+  color: #7ee787;
+}
+
+#command-display {
+  color: #c9d1d9;
+  margin-left: 8px;
+}
+
+#cursor {
+  display: inline-block;
+
+  width: 7px;
+  height: 16px;
+
+  margin-left: 3px;
+
+  background: #c9d1d9;
+
+  vertical-align: middle;
+
+  animation: blink 1s steps(1) infinite;
+}
+
+#command-input {
+  position: absolute;
+
+  width: 1px;
+  height: 1px;
+
+  opacity: 0;
+
+  pointer-events: none;
+}
+
+@keyframes blink {
+  0%,
+  50% {
+    opacity: 1;
+  }
+
+  51%,
+  100% {
+    opacity: 0;
+  }
+}
+
+#terminal-output::-webkit-scrollbar {
+  width: 6px;
+}
+
+#terminal-output::-webkit-scrollbar-thumb {
+  background: #30363d;
+  border-radius: 10px;
+}

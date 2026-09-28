@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>redshift@github: ~</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="terminal">
+
+    <div class="terminal-header">
+
+      <div class="window-buttons">
+        <span class="close"></span>
+        <span class="minimize"></span>
+        <span class="maximize"></span>
+      </div>
+
+      <div class="terminal-title">
+        redshift@github: ~
+      </div>
+
+    </div>
+
+    <div id="terminal-output"></div>
+
+    <div class="terminal-input">
+
+      <span class="prompt">redshift@github:~$</span>
+
+      <span id="command-display"></span>
+
+      <span id="cursor"></span>
+
+      <input
+        id="command-input"
+        type="text"
+        autocomplete="off"
+        spellcheck="false"
+        aria-hidden="true"
+      >
+
+    </div>
+
+  </div>
+
+  <script src="terminal.js"></script>
+
+</body>
+
+</html>

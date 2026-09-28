@@ -1,32 +1,35 @@
-<h1 align="center"> Hi, I'm Redshifted </h1>
+<h1 align="center">Hi, I'm Redshifted</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=120&pause=1200&color=3FB950&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;ML%2FAI+Explorer;Problem+Solver"
-    alt="B.Tech CSE Student | ML/AI Explorer | Problem Solver"
-  />
+  <b>Computer Science Student · ML/AI Enthusiast · Open Source Explorer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Exploring+Machine+Learning;Strengthening+Data+Structures+%26+Algorithms;Building+with+C+%26+Python;Learning+by+Building" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/redshift-quasar/redshift-quasar/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 </p>
 
 ---
 
 <h2 align="center">About Me</h2>
 
-I'm a **B.Tech Computer Science and Engineering student at PES University**, currently focusing on **Machine Learning, Artificial Intelligence, Data Structures & Algorithms, and core Computer Science**.
+<p align="center">
+I'm a <b>B.Tech Computer Science and Engineering student at PES University</b> interested in understanding how things work from the fundamentals and turning that understanding into practical systems.
+</p>
 
-I enjoy understanding concepts from the fundamentals, building practical solutions, and learning through experimentation.
+<p align="center">
+Currently exploring <b>Machine Learning, Artificial Intelligence, Data Structures & Algorithms, Systems, and Core Computer Science</b>.
+</p>
 
-* B.Tech Computer Science and Engineering student
-* Exploring Machine Learning and Artificial Intelligence
-* Strengthening Data Structures and Algorithms
-* Learning Python for Machine Learning
-* Exploring C and systems-level programming
-* Interested in mathematics, data, and intelligent systems
-* Interested in open-source development
-* Focused on writing clean, efficient, and maintainable code
+<ul>
+  <li>B.Tech Computer Science and Engineering student</li>
+  <li>Exploring Machine Learning and Artificial Intelligence</li>
+  <li>Strengthening Data Structures and Algorithms</li>
+  <li>Learning Python for Machine Learning</li>
+  <li>Exploring C and systems-level programming</li>
+  <li>Interested in mathematics, data, and intelligent systems</li>
+  <li>Exploring open-source development</li>
+  <li>Focused on writing clean, efficient, and maintainable code</li>
+</ul>
 
 ---
 
@@ -38,21 +41,13 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
   <img src="https://skillicons.dev/icons?i=c,python,js,ts" />
 </p>
 
-<h3 align="center">Machine Learning and Data</h3>
+<h3 align="center">Machine Learning & AI</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-<p align="center">
-  <a href="#currently-learning">Machine Learning</a>
-  &nbsp; · &nbsp;
-  <a href="#problem-solving">DSA</a>
-  &nbsp; · &nbsp;
-  <a href="#about-me">Computer Science</a>
-</p>
-
-<h3 align="center">Tools and Environment</h3>
+<h3 align="center">Tools & Environment</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
@@ -63,21 +58,25 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 <h2 align="center">Currently Learning</h2>
 
 <details>
-<summary>Machine Learning</summary>
+<summary><b>Machine Learning & AI</b></summary>
+
+<br>
 
 * Machine Learning fundamentals
 * Supervised and unsupervised learning
 * Feature engineering
 * Model evaluation
-* Python for Machine Learning
-* Mathematics behind Machine Learning
 * Data analysis and visualization
-* Deep Learning and modern AI systems
+* Mathematics behind Machine Learning
+* Deep Learning
+* Modern AI systems
 
 </details>
 
 <details>
-<summary>Data Structures and Algorithms</summary>
+<summary><b>Data Structures & Algorithms</b></summary>
+
+<br>
 
 * Arrays and Strings
 * Searching and Sorting
@@ -88,12 +87,14 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 * Trees
 * Graphs
 * Dynamic Programming
-* Problem solving through LeetCode
+* Problem-solving through LeetCode
 
 </details>
 
 <details>
-<summary>Computer Science</summary>
+<summary><b>Computer Science</b></summary>
+
+<br>
 
 * C programming
 * Pointers and memory management
@@ -108,16 +109,60 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 
 ---
 
+<h2 align="center">What I'm Building</h2>
+
+<p align="center">
+I learn best by building things from scratch.
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+<b>Machine Learning</b>
+
+<br><br>
+
+Exploring computer vision, embeddings, model pipelines, and practical ML systems.
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Systems</b>
+
+<br><br>
+
+Learning how operating systems, networks, protocols, and low-level software work.
+
+</td>
+
+<td align="center" width="33%">
+
+<b>Open Source</b>
+
+<br><br>
+
+Exploring real-world codebases and contributing to open-source projects.
+
+</td>
+</tr>
+</table>
+
+---
+
 <h2 align="center">Goals</h2>
 
-* Build a strong foundation in Machine Learning and Artificial Intelligence
-* Become highly proficient in Data Structures and Algorithms
-* Understand the mathematics and intuition behind Machine Learning
-* Build meaningful Machine Learning projects from scratch
-* Experiment with different Machine Learning and AI approaches
-* Contribute to meaningful open-source projects
-* Strengthen software engineering and Computer Science fundamentals
-* Continue learning, experimenting, and building
+<ul>
+  <li>Build a strong foundation in Machine Learning and Artificial Intelligence</li>
+  <li>Become highly proficient in Data Structures and Algorithms</li>
+  <li>Understand the mathematics and intuition behind Machine Learning</li>
+  <li>Build meaningful Machine Learning projects from scratch</li>
+  <li>Experiment with different Machine Learning and AI approaches</li>
+  <li>Contribute to meaningful open-source projects</li>
+  <li>Strengthen software engineering and Computer Science fundamentals</li>
+  <li>Keep learning, experimenting, and building</li>
+</ul>
 
 ---
 
@@ -125,35 +170,39 @@ I enjoy understanding concepts from the fundamentals, building practical solutio
 
 <p align="center">
   <a href="https://leetcode.com/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" alt="LeetCode"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/redshift-quasar">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="28"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/>
   </a>
 </p>
 
-Currently focusing on understanding **problem-solving patterns and underlying concepts**, rather than simply increasing the number of solved problems.
-
+<p align="center">
+  Currently focusing on understanding <b>problem-solving patterns and underlying concepts</b>
+  rather than simply increasing the number of problems solved.
+</p>
 
 ---
 
 <h2 align="center">Areas of Interest</h2>
 
 <p align="center">
-  <a href="#currently-learning">Machine Learning</a>
+  Machine Learning
   &nbsp; • &nbsp;
-  <a href="#currently-learning">Artificial Intelligence</a>
+  Artificial Intelligence
   &nbsp; • &nbsp;
-  <a href="#problem-solving">Data Structures</a>
+  Data Structures
   &nbsp; • &nbsp;
-  <a href="#problem-solving">Algorithms</a>
+  Algorithms
   &nbsp; • &nbsp;
-  <a href="#about-me">Computer Science</a>
+  Computer Science
   &nbsp; • &nbsp;
-  <a href="#tech-stack">Linux</a>
+  Systems
   &nbsp; • &nbsp;
-  <a href="#goals">Open Source</a>
+  Linux
+  &nbsp; • &nbsp;
+  Open Source
 </p>
 
 ---
@@ -164,8 +213,8 @@ Currently focusing on understanding **problem-solving patterns and underlying co
   <a href="https://github.com/redshift-quasar">
     <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/atharva-patel-a40bb136a/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
   </a>
 </p>
@@ -174,4 +223,4 @@ Currently focusing on understanding **problem-solving patterns and underlying co
   <i>Learning. Building. Improving.</i>
 </p>
 
-----
+---

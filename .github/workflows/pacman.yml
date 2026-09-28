@@ -1,4 +1,4 @@
-name: Pac-Man Contribution Graph
+name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
@@ -6,23 +6,44 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          build_dir: dist
-          target_branch: output
+          node-version: 20
+
+      - name: Generate Pac-Man SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: ${{ github.repository_owner }}
+        run: |
+          node src/generate.mjs
+
+      - name: Commit generated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add dist/pacman.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update Pac-Man contribution graph"
+          git push

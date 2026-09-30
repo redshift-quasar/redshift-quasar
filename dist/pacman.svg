@@ -19,14 +19,14 @@
           <title>2025-09-29: 5 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.002626;0.005036;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.002619;0.005029;1" values="1;1;0;0"/>
         </rect>
         <rect x="10" y="40" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2025-09-30: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.005253;0.007662;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.005238;0.007648;1" values="1;1;0;0"/>
         </rect>
         <rect x="10" y="55" width="12" height="12"
               rx="2" fill="#161b22">
@@ -43,14 +43,14 @@
           <title>2025-10-03: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.013132;0.015541;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.013096;0.015506;1" values="1;1;0;0"/>
         </rect>
         <rect x="10" y="100" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2025-10-04: 4 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.015758;0.018167;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.015715;0.018125;1" values="1;1;0;0"/>
         </rect>
         <rect x="25" y="10" width="12" height="12"
               rx="2" fill="#161b22">
@@ -62,28 +62,28 @@
           <title>2025-10-06: 19 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.031516;0.033925;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.031430;0.033840;1" values="1;1;0;0"/>
         </rect>
         <rect x="25" y="40" width="12" height="12"
               rx="2" fill="#39d353">
           <title>2025-10-07: 9 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.028889;0.031299;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.028811;0.031221;1" values="1;1;0;0"/>
         </rect>
         <rect x="25" y="55" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2025-10-08: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.026263;0.028673;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.026192;0.028601;1" values="1;1;0;0"/>
         </rect>
         <rect x="25" y="70" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2025-10-09: 4 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.023637;0.026046;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.023573;0.025982;1" values="1;1;0;0"/>
         </rect>
         <rect x="25" y="85" width="12" height="12"
               rx="2" fill="#161b22">
@@ -105,14 +105,14 @@
           <title>2025-10-13: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.039395;0.041804;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.039288;0.041697;1" values="1;1;0;0"/>
         </rect>
         <rect x="40" y="40" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2025-10-14: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.042021;0.044431;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.041907;0.044316;1" values="1;1;0;0"/>
         </rect>
         <rect x="40" y="55" width="12" height="12"
               rx="2" fill="#161b22">
@@ -309,7 +309,7 @@
           <title>2025-11-22: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.128689;0.131099;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.128339;0.130749;1" values="1;1;0;0"/>
         </rect>
         <rect x="130" y="10" width="12" height="12"
               rx="2" fill="#161b22">
@@ -321,7 +321,7 @@
           <title>2025-11-24: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.149700;0.152109;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.149293;0.151702;1" values="1;1;0;0"/>
         </rect>
         <rect x="130" y="40" width="12" height="12"
               rx="2" fill="#161b22">
@@ -443,14 +443,14 @@
           <title>2025-12-18: 18 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.207478;0.209888;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.206915;0.209324;1" values="1;1;0;0"/>
         </rect>
         <rect x="175" y="85" width="12" height="12"
               rx="2" fill="#39d353">
           <title>2025-12-19: 26 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.204852;0.207262;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.204295;0.206705;1" values="1;1;0;0"/>
         </rect>
         <rect x="175" y="100" width="12" height="12"
               rx="2" fill="#161b22">
@@ -462,7 +462,7 @@
           <title>2025-12-21: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.220610;0.223020;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.220010;0.222420;1" values="1;1;0;0"/>
         </rect>
         <rect x="190" y="25" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1064,7 +1064,7 @@
           <title>2026-04-20: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.546272;0.548682;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.544788;0.547197;1" values="1;1;0;0"/>
         </rect>
         <rect x="445" y="40" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1276,42 +1276,42 @@
           <title>2026-06-01: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.656577;0.658987;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.654793;0.657203;1" values="1;1;0;0"/>
         </rect>
         <rect x="535" y="40" width="12" height="12"
               rx="2" fill="#26a641">
           <title>2026-06-02: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.653951;0.656361;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.652174;0.654584;1" values="1;1;0;0"/>
         </rect>
         <rect x="535" y="55" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2026-06-03: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.651325;0.653734;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.649555;0.651964;1" values="1;1;0;0"/>
         </rect>
         <rect x="535" y="70" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-06-04: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.648698;0.651108;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.646936;0.649345;1" values="1;1;0;0"/>
         </rect>
         <rect x="535" y="85" width="12" height="12"
               rx="2" fill="#26a641">
           <title>2026-06-05: 7 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.646072;0.648482;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.644316;0.646726;1" values="1;1;0;0"/>
         </rect>
         <rect x="535" y="100" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-06-06: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.643446;0.645855;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.641697;0.644107;1" values="1;1;0;0"/>
         </rect>
         <rect x="550" y="10" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1323,14 +1323,14 @@
           <title>2026-06-08: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.664456;0.666866;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.662651;0.665060;1" values="1;1;0;0"/>
         </rect>
         <rect x="550" y="40" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-06-09: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.667082;0.669492;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.665270;0.667679;1" values="1;1;0;0"/>
         </rect>
         <rect x="550" y="55" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1347,14 +1347,14 @@
           <title>2026-06-12: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.674961;0.677371;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.673127;0.675537;1" values="1;1;0;0"/>
         </rect>
         <rect x="550" y="100" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2026-06-13: 4 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.677588;0.679997;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.675746;0.678156;1" values="1;1;0;0"/>
         </rect>
         <rect x="565" y="10" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1366,14 +1366,14 @@
           <title>2026-06-15: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.693346;0.695755;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.691461;0.693871;1" values="1;1;0;0"/>
         </rect>
         <rect x="565" y="40" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-06-16: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.690719;0.693129;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.688842;0.691252;1" values="1;1;0;0"/>
         </rect>
         <rect x="565" y="55" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1390,7 +1390,7 @@
           <title>2026-06-19: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.682840;0.685250;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.680985;0.683394;1" values="1;1;0;0"/>
         </rect>
         <rect x="565" y="100" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1432,7 +1432,7 @@
           <title>2026-06-27: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.714356;0.716766;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.712415;0.714825;1" values="1;1;0;0"/>
         </rect>
         <rect x="595" y="10" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1454,21 +1454,21 @@
           <title>2026-07-01: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.724861;0.727271;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.722892;0.725301;1" values="1;1;0;0"/>
         </rect>
         <rect x="595" y="70" width="12" height="12"
               rx="2" fill="#26a641">
           <title>2026-07-02: 7 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.722235;0.724645;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.720272;0.722682;1" values="1;1;0;0"/>
         </rect>
         <rect x="595" y="85" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-07-03: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.719609;0.722018;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.717653;0.720063;1" values="1;1;0;0"/>
         </rect>
         <rect x="595" y="100" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1505,14 +1505,14 @@
           <title>2026-07-10: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.748498;0.750908;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.746464;0.748874;1" values="1;1;0;0"/>
         </rect>
         <rect x="610" y="100" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-07-11: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.751124;0.753534;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.749083;0.751493;1" values="1;1;0;0"/>
         </rect>
         <rect x="625" y="10" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1544,7 +1544,7 @@
           <title>2026-07-17: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.756377;0.758787;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.754322;0.756731;1" values="1;1;0;0"/>
         </rect>
         <rect x="625" y="100" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1651,21 +1651,21 @@
           <title>2026-08-07: 4 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.822035;0.824444;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.819801;0.822211;1" values="1;1;0;0"/>
         </rect>
         <rect x="670" y="100" width="12" height="12"
               rx="2" fill="#39d353">
           <title>2026-08-08: 11 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.824661;0.827071;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.822420;0.824830;1" values="1;1;0;0"/>
         </rect>
         <rect x="685" y="10" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2026-08-09: 5 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.843045;0.845455;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.840754;0.843164;1" values="1;1;0;0"/>
         </rect>
         <rect x="685" y="25" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1737,7 +1737,7 @@
           <title>2026-08-23: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.879814;0.882223;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.877423;0.879832;1" values="1;1;0;0"/>
         </rect>
         <rect x="715" y="25" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1749,14 +1749,14 @@
           <title>2026-08-25: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.874561;0.876971;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.872184;0.874594;1" values="1;1;0;0"/>
         </rect>
         <rect x="715" y="55" width="12" height="12"
               rx="2" fill="#26a641">
           <title>2026-08-26: 7 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.871935;0.874344;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.869565;0.871975;1" values="1;1;0;0"/>
         </rect>
         <rect x="715" y="70" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1768,42 +1768,42 @@
           <title>2026-08-28: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.866682;0.869092;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.864327;0.866737;1" values="1;1;0;0"/>
         </rect>
         <rect x="715" y="100" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2026-08-29: 4 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.864056;0.866465;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.861708;0.864117;1" values="1;1;0;0"/>
         </rect>
         <rect x="730" y="10" width="12" height="12"
               rx="2" fill="#39d353">
           <title>2026-08-30: 9 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.882440;0.884849;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.880042;0.882452;1" values="1;1;0;0"/>
         </rect>
         <rect x="730" y="25" width="12" height="12"
               rx="2" fill="#39d353">
           <title>2026-08-31: 10 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.885066;0.887476;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.882661;0.885071;1" values="1;1;0;0"/>
         </rect>
         <rect x="730" y="40" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2026-09-01: 4 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.887692;0.890102;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.885280;0.887690;1" values="1;1;0;0"/>
         </rect>
         <rect x="730" y="55" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-09-02: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.890319;0.892728;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.887899;0.890309;1" values="1;1;0;0"/>
         </rect>
         <rect x="730" y="70" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1815,14 +1815,14 @@
           <title>2026-09-04: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.895571;0.897981;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.893138;0.895547;1" values="1;1;0;0"/>
         </rect>
         <rect x="730" y="100" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-09-05: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.898198;0.900607;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.895757;0.898167;1" values="1;1;0;0"/>
         </rect>
         <rect x="745" y="10" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1839,28 +1839,28 @@
           <title>2026-09-08: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.911329;0.913739;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.908853;0.911262;1" values="1;1;0;0"/>
         </rect>
         <rect x="745" y="55" width="12" height="12"
               rx="2" fill="#26a641">
           <title>2026-09-09: 7 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.908703;0.911113;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.906234;0.908643;1" values="1;1;0;0"/>
         </rect>
         <rect x="745" y="70" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2026-09-10: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.906077;0.908486;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.903614;0.906024;1" values="1;1;0;0"/>
         </rect>
         <rect x="745" y="85" width="12" height="12"
               rx="2" fill="#006d32">
           <title>2026-09-11: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.903450;0.905860;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.900995;0.903405;1" values="1;1;0;0"/>
         </rect>
         <rect x="745" y="100" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1882,7 +1882,7 @@
           <title>2026-09-15: 2 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.924461;0.926870;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.921949;0.924358;1" values="1;1;0;0"/>
         </rect>
         <rect x="760" y="55" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1929,7 +1929,7 @@
           <title>2026-09-24: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.942845;0.945255;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.940283;0.942693;1" values="1;1;0;0"/>
         </rect>
         <rect x="775" y="85" width="12" height="12"
               rx="2" fill="#161b22">
@@ -1951,19 +1951,24 @@
           <title>2026-09-28: 8 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.958603;0.961012;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.955998;0.958408;1" values="1;1;0;0"/>
         </rect>
         <rect x="790" y="40" width="12" height="12"
               rx="2" fill="#0e4429">
           <title>2026-09-29: 1 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
-            calcMode="linear" keyTimes="0;0.961229;0.963639;1" values="1;1;0;0"/>
+            calcMode="linear" keyTimes="0;0.958617;0.961027;1" values="1;1;0;0"/>
+        </rect>
+        <rect x="790" y="55" width="12" height="12"
+              rx="2" fill="#161b22">
+          <title>2026-09-30: 0 contributions</title>
+          
         </rect>
   </g>
 
   <!-- Police ghost right after today -->
-  <g transform="translate(796 61)">
+  <g transform="translate(796 76)">
     
     <!-- body -->
     <path fill="#4c6ef5" stroke="#111" stroke-width="0.8"
@@ -1989,7 +1994,7 @@
     <animateMotion
       dur="41.5s"
       repeatCount="indefinite"
-      path="M 16 16 L 16 31 L 16 46 L 16 61 L 16 76 L 16 91 L 16 106 L 31 106 L 31 91 L 31 76 L 31 61 L 31 46 L 31 31 L 31 16 L 46 16 L 46 31 L 46 46 L 46 61 L 46 76 L 46 91 L 46 106 L 61 106 L 61 91 L 61 76 L 61 61 L 61 46 L 61 31 L 61 16 L 76 16 L 76 31 L 76 46 L 76 61 L 76 76 L 76 91 L 76 106 L 91 106 L 91 91 L 91 76 L 91 61 L 91 46 L 91 31 L 91 16 L 106 16 L 106 31 L 106 46 L 106 61 L 106 76 L 106 91 L 106 106 L 121 106 L 121 91 L 121 76 L 121 61 L 121 46 L 121 31 L 121 16 L 136 16 L 136 31 L 136 46 L 136 61 L 136 76 L 136 91 L 136 106 L 151 106 L 151 91 L 151 76 L 151 61 L 151 46 L 151 31 L 151 16 L 166 16 L 166 31 L 166 46 L 166 61 L 166 76 L 166 91 L 166 106 L 181 106 L 181 91 L 181 76 L 181 61 L 181 46 L 181 31 L 181 16 L 196 16 L 196 31 L 196 46 L 196 61 L 196 76 L 196 91 L 196 106 L 211 106 L 211 91 L 211 76 L 211 61 L 211 46 L 211 31 L 211 16 L 226 16 L 226 31 L 226 46 L 226 61 L 226 76 L 226 91 L 226 106 L 241 106 L 241 91 L 241 76 L 241 61 L 241 46 L 241 31 L 241 16 L 256 16 L 256 31 L 256 46 L 256 61 L 256 76 L 256 91 L 256 106 L 271 106 L 271 91 L 271 76 L 271 61 L 271 46 L 271 31 L 271 16 L 286 16 L 286 31 L 286 46 L 286 61 L 286 76 L 286 91 L 286 106 L 301 106 L 301 91 L 301 76 L 301 61 L 301 46 L 301 31 L 301 16 L 316 16 L 316 31 L 316 46 L 316 61 L 316 76 L 316 91 L 316 106 L 331 106 L 331 91 L 331 76 L 331 61 L 331 46 L 331 31 L 331 16 L 346 16 L 346 31 L 346 46 L 346 61 L 346 76 L 346 91 L 346 106 L 361 106 L 361 91 L 361 76 L 361 61 L 361 46 L 361 31 L 361 16 L 376 16 L 376 31 L 376 46 L 376 61 L 376 76 L 376 91 L 376 106 L 391 106 L 391 91 L 391 76 L 391 61 L 391 46 L 391 31 L 391 16 L 406 16 L 406 31 L 406 46 L 406 61 L 406 76 L 406 91 L 406 106 L 421 106 L 421 91 L 421 76 L 421 61 L 421 46 L 421 31 L 421 16 L 436 16 L 436 31 L 436 46 L 436 61 L 436 76 L 436 91 L 436 106 L 451 106 L 451 91 L 451 76 L 451 61 L 451 46 L 451 31 L 451 16 L 466 16 L 466 31 L 466 46 L 466 61 L 466 76 L 466 91 L 466 106 L 481 106 L 481 91 L 481 76 L 481 61 L 481 46 L 481 31 L 481 16 L 496 16 L 496 31 L 496 46 L 496 61 L 496 76 L 496 91 L 496 106 L 511 106 L 511 91 L 511 76 L 511 61 L 511 46 L 511 31 L 511 16 L 526 16 L 526 31 L 526 46 L 526 61 L 526 76 L 526 91 L 526 106 L 541 106 L 541 91 L 541 76 L 541 61 L 541 46 L 541 31 L 541 16 L 556 16 L 556 31 L 556 46 L 556 61 L 556 76 L 556 91 L 556 106 L 571 106 L 571 91 L 571 76 L 571 61 L 571 46 L 571 31 L 571 16 L 586 16 L 586 31 L 586 46 L 586 61 L 586 76 L 586 91 L 586 106 L 601 106 L 601 91 L 601 76 L 601 61 L 601 46 L 601 31 L 601 16 L 616 16 L 616 31 L 616 46 L 616 61 L 616 76 L 616 91 L 616 106 L 631 106 L 631 91 L 631 76 L 631 61 L 631 46 L 631 31 L 631 16 L 646 16 L 646 31 L 646 46 L 646 61 L 646 76 L 646 91 L 646 106 L 661 106 L 661 91 L 661 76 L 661 61 L 661 46 L 661 31 L 661 16 L 676 16 L 676 31 L 676 46 L 676 61 L 676 76 L 676 91 L 676 106 L 691 106 L 691 91 L 691 76 L 691 61 L 691 46 L 691 31 L 691 16 L 706 16 L 706 31 L 706 46 L 706 61 L 706 76 L 706 91 L 706 106 L 721 106 L 721 91 L 721 76 L 721 61 L 721 46 L 721 31 L 721 16 L 736 16 L 736 31 L 736 46 L 736 61 L 736 76 L 736 91 L 736 106 L 751 106 L 751 91 L 751 76 L 751 61 L 751 46 L 751 31 L 751 16 L 766 16 L 766 31 L 766 46 L 766 61 L 766 76 L 766 91 L 766 106 L 781 106 L 781 91 L 781 76 L 781 61 L 781 46 L 781 31 L 781 16 L 796 16 L 796 31 L 796 46 L 796 61"
+      path="M 16 16 L 16 31 L 16 46 L 16 61 L 16 76 L 16 91 L 16 106 L 31 106 L 31 91 L 31 76 L 31 61 L 31 46 L 31 31 L 31 16 L 46 16 L 46 31 L 46 46 L 46 61 L 46 76 L 46 91 L 46 106 L 61 106 L 61 91 L 61 76 L 61 61 L 61 46 L 61 31 L 61 16 L 76 16 L 76 31 L 76 46 L 76 61 L 76 76 L 76 91 L 76 106 L 91 106 L 91 91 L 91 76 L 91 61 L 91 46 L 91 31 L 91 16 L 106 16 L 106 31 L 106 46 L 106 61 L 106 76 L 106 91 L 106 106 L 121 106 L 121 91 L 121 76 L 121 61 L 121 46 L 121 31 L 121 16 L 136 16 L 136 31 L 136 46 L 136 61 L 136 76 L 136 91 L 136 106 L 151 106 L 151 91 L 151 76 L 151 61 L 151 46 L 151 31 L 151 16 L 166 16 L 166 31 L 166 46 L 166 61 L 166 76 L 166 91 L 166 106 L 181 106 L 181 91 L 181 76 L 181 61 L 181 46 L 181 31 L 181 16 L 196 16 L 196 31 L 196 46 L 196 61 L 196 76 L 196 91 L 196 106 L 211 106 L 211 91 L 211 76 L 211 61 L 211 46 L 211 31 L 211 16 L 226 16 L 226 31 L 226 46 L 226 61 L 226 76 L 226 91 L 226 106 L 241 106 L 241 91 L 241 76 L 241 61 L 241 46 L 241 31 L 241 16 L 256 16 L 256 31 L 256 46 L 256 61 L 256 76 L 256 91 L 256 106 L 271 106 L 271 91 L 271 76 L 271 61 L 271 46 L 271 31 L 271 16 L 286 16 L 286 31 L 286 46 L 286 61 L 286 76 L 286 91 L 286 106 L 301 106 L 301 91 L 301 76 L 301 61 L 301 46 L 301 31 L 301 16 L 316 16 L 316 31 L 316 46 L 316 61 L 316 76 L 316 91 L 316 106 L 331 106 L 331 91 L 331 76 L 331 61 L 331 46 L 331 31 L 331 16 L 346 16 L 346 31 L 346 46 L 346 61 L 346 76 L 346 91 L 346 106 L 361 106 L 361 91 L 361 76 L 361 61 L 361 46 L 361 31 L 361 16 L 376 16 L 376 31 L 376 46 L 376 61 L 376 76 L 376 91 L 376 106 L 391 106 L 391 91 L 391 76 L 391 61 L 391 46 L 391 31 L 391 16 L 406 16 L 406 31 L 406 46 L 406 61 L 406 76 L 406 91 L 406 106 L 421 106 L 421 91 L 421 76 L 421 61 L 421 46 L 421 31 L 421 16 L 436 16 L 436 31 L 436 46 L 436 61 L 436 76 L 436 91 L 436 106 L 451 106 L 451 91 L 451 76 L 451 61 L 451 46 L 451 31 L 451 16 L 466 16 L 466 31 L 466 46 L 466 61 L 466 76 L 466 91 L 466 106 L 481 106 L 481 91 L 481 76 L 481 61 L 481 46 L 481 31 L 481 16 L 496 16 L 496 31 L 496 46 L 496 61 L 496 76 L 496 91 L 496 106 L 511 106 L 511 91 L 511 76 L 511 61 L 511 46 L 511 31 L 511 16 L 526 16 L 526 31 L 526 46 L 526 61 L 526 76 L 526 91 L 526 106 L 541 106 L 541 91 L 541 76 L 541 61 L 541 46 L 541 31 L 541 16 L 556 16 L 556 31 L 556 46 L 556 61 L 556 76 L 556 91 L 556 106 L 571 106 L 571 91 L 571 76 L 571 61 L 571 46 L 571 31 L 571 16 L 586 16 L 586 31 L 586 46 L 586 61 L 586 76 L 586 91 L 586 106 L 601 106 L 601 91 L 601 76 L 601 61 L 601 46 L 601 31 L 601 16 L 616 16 L 616 31 L 616 46 L 616 61 L 616 76 L 616 91 L 616 106 L 631 106 L 631 91 L 631 76 L 631 61 L 631 46 L 631 31 L 631 16 L 646 16 L 646 31 L 646 46 L 646 61 L 646 76 L 646 91 L 646 106 L 661 106 L 661 91 L 661 76 L 661 61 L 661 46 L 661 31 L 661 16 L 676 16 L 676 31 L 676 46 L 676 61 L 676 76 L 676 91 L 676 106 L 691 106 L 691 91 L 691 76 L 691 61 L 691 46 L 691 31 L 691 16 L 706 16 L 706 31 L 706 46 L 706 61 L 706 76 L 706 91 L 706 106 L 721 106 L 721 91 L 721 76 L 721 61 L 721 46 L 721 31 L 721 16 L 736 16 L 736 31 L 736 46 L 736 61 L 736 76 L 736 91 L 736 106 L 751 106 L 751 91 L 751 76 L 751 61 L 751 46 L 751 31 L 751 16 L 766 16 L 766 31 L 766 46 L 766 61 L 766 76 L 766 91 L 766 106 L 781 106 L 781 91 L 781 76 L 781 61 L 781 46 L 781 31 L 781 16 L 796 16 L 796 31 L 796 46 L 796 61 L 796 76"
       calcMode="linear"
       keyPoints="0;1;1"
       keyTimes="0;0.963855;1"
@@ -2009,7 +2014,7 @@
         <animateTransform
           attributeName="transform" type="rotate"
           dur="41.5s" repeatCount="indefinite" calcMode="discrete"
-          keyTimes="0.000000;0.015758;0.034142;0.052526;0.070910;0.089295;0.107679;0.126063;0.144447;0.162831;0.181215;0.199599;0.217984;0.236368;0.254752;0.273136;0.291520;0.309904;0.328289;0.346673;0.365057;0.383441;0.401825;0.420209;0.438594;0.456978;0.475362;0.493746;0.512130;0.530514;0.548899;0.567283;0.585667;0.604051;0.622435;0.640819;0.659204;0.677588;0.695972;0.714356;0.732740;0.751124;0.769509;0.787893;0.806277;0.824661;0.843045;0.861429;0.879814;0.898198;0.916582;0.934966;0.953350"
+          keyTimes="0.000000;0.015715;0.034049;0.052383;0.070718;0.089052;0.107386;0.125720;0.144054;0.162389;0.180723;0.199057;0.217391;0.235726;0.254060;0.272394;0.290728;0.309062;0.327397;0.345731;0.364065;0.382399;0.400733;0.419068;0.437402;0.455736;0.474070;0.492404;0.510739;0.529073;0.547407;0.565741;0.584075;0.602410;0.620744;0.639078;0.657412;0.675746;0.694081;0.712415;0.730749;0.749083;0.767417;0.785752;0.804086;0.822420;0.840754;0.859089;0.877423;0.895757;0.914091;0.932425;0.950760"
           values="90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90;-90;90"
         />
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Redshifted</h1>
 
 <p align="center">
-  Computer Science Student · ML/AI Enthusiast · Open Source Explorer
+  Computer Science Student · ML/AI · Open Source Explorer
 </p>
 
 <p align="center">

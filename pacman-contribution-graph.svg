@@ -1799,8 +1799,8 @@
             calcMode="linear" keyTimes="0;0.880495;0.882905;1" values="1;1;0;0"/>
         </rect>
         <rect x="730" y="55" width="12" height="12"
-              rx="2" fill="#26a641">
-          <title>2026-09-09: 7 contributions</title>
+              rx="2" fill="#39d353">
+          <title>2026-09-09: 9 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
             calcMode="linear" keyTimes="0;0.883100;0.885510;1" values="1;1;0;0"/>
@@ -1973,9 +1973,11 @@
           
         </rect>
         <rect x="790" y="85" width="12" height="12"
-              rx="2" fill="#161b22">
-          <title>2026-10-09: 0 contributions</title>
+              rx="2" fill="#26a641">
+          <title>2026-10-09: 7 contributions</title>
           
+          <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
+            calcMode="linear" keyTimes="0;0.961250;0.963660;1" values="1;1;0;0"/>
         </rect>
   </g>
 

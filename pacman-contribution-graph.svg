@@ -1137,21 +1137,21 @@
           
         </rect>
         <rect x="490" y="25" width="12" height="12"
-              rx="2" fill="#006d32">
+              rx="2" fill="#0e4429">
           <title>2026-06-01: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
             calcMode="linear" keyTimes="0;0.589314;0.591723;1" values="1;1;0;0"/>
         </rect>
         <rect x="490" y="40" width="12" height="12"
-              rx="2" fill="#26a641">
+              rx="2" fill="#006d32">
           <title>2026-06-02: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
             calcMode="linear" keyTimes="0;0.591933;0.594343;1" values="1;1;0;0"/>
         </rect>
         <rect x="490" y="55" width="12" height="12"
-              rx="2" fill="#006d32">
+              rx="2" fill="#0e4429">
           <title>2026-06-03: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1208,7 +1208,7 @@
           
         </rect>
         <rect x="505" y="85" width="12" height="12"
-              rx="2" fill="#26a641">
+              rx="2" fill="#006d32">
           <title>2026-06-12: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1311,7 +1311,7 @@
           
         </rect>
         <rect x="550" y="55" width="12" height="12"
-              rx="2" fill="#26a641">
+              rx="2" fill="#006d32">
           <title>2026-07-01: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1606,7 +1606,7 @@
           
         </rect>
         <rect x="670" y="40" width="12" height="12"
-              rx="2" fill="#26a641">
+              rx="2" fill="#006d32">
           <title>2026-08-25: 6 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1639,7 +1639,7 @@
             calcMode="linear" keyTimes="0;0.822420;0.824830;1" values="1;1;0;0"/>
         </rect>
         <rect x="685" y="10" width="12" height="12"
-              rx="2" fill="#39d353">
+              rx="2" fill="#26a641">
           <title>2026-08-30: 9 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1703,21 +1703,21 @@
             calcMode="linear" keyTimes="0;0.848612;0.851021;1" values="1;1;0;0"/>
         </rect>
         <rect x="700" y="55" width="12" height="12"
-              rx="2" fill="#39d353">
+              rx="2" fill="#26a641">
           <title>2026-09-09: 9 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
             calcMode="linear" keyTimes="0;0.851231;0.853641;1" values="1;1;0;0"/>
         </rect>
         <rect x="700" y="70" width="12" height="12"
-              rx="2" fill="#006d32">
+              rx="2" fill="#0e4429">
           <title>2026-09-10: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
             calcMode="linear" keyTimes="0;0.853850;0.856260;1" values="1;1;0;0"/>
         </rect>
         <rect x="700" y="85" width="12" height="12"
-              rx="2" fill="#006d32">
+              rx="2" fill="#0e4429">
           <title>2026-09-11: 3 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1808,7 +1808,7 @@
           
         </rect>
         <rect x="745" y="25" width="12" height="12"
-              rx="2" fill="#39d353">
+              rx="2" fill="#26a641">
           <title>2026-09-28: 8 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1836,7 +1836,7 @@
             calcMode="linear" keyTimes="0;0.903614;0.906024;1" values="1;1;0;0"/>
         </rect>
         <rect x="745" y="85" width="12" height="12"
-              rx="2" fill="#39d353">
+              rx="2" fill="#26a641">
           <title>2026-10-02: 9 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
@@ -1953,8 +1953,8 @@
             calcMode="linear" keyTimes="0;0.958617;0.961027;1" values="1;1;0;0"/>
         </rect>
         <rect x="790" y="55" width="12" height="12"
-              rx="2" fill="#0e4429">
-          <title>2026-10-21: 2 contributions</title>
+              rx="2" fill="#39d353">
+          <title>2026-10-21: 13 contributions</title>
           
           <animate attributeName="opacity" dur="41.5s" repeatCount="indefinite"
             calcMode="linear" keyTimes="0;0.961236;0.963646;1" values="1;1;0;0"/>
